@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maduja&label=Profile%20views&color=0e75b6&style=flat" alt="maduja" /> </p>
 
----
-
 - 🔭 I’m currently working on [Portfolio - Web Application](https://github.com/Maduja/Portfolio_website)
 
 - 🌱 I’m currently learning **Computer Science and Technology**
